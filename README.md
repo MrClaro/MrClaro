@@ -1,15 +1,20 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=2500&pause=1000&color=F70909&center=true&vCenter=true&width=1000&height=200&lines=Be+Welcome%F0%9F%91%8D;My+name+is+Adryan+Gustavo;I%60m+a+Back-End+Developer+from+Brazil%2C+SP.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=2500&pause=1000&color=F70909&center=true&vCenter=true&width=1000&height=50&lines=Be+Welcome%F0%9F%91%8D;My+name+is+Adryan+Gustavo;I%60m+a+Back-End+Developer+from+Brazil%2C+SP.)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrclaro&show_icons=true&count_private=true&hide_border=true&title_color=D60529&icon_color=CF1815&text_color=c9d1d9&bg_color=000000" alt="José Luís github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrclaro&layout=compact&hide_border=true&title_color=D60529&text_color=c9d1d9&bg_color=000000" />
   <br>
 </div>
+<div align="center"><br>
+  <a href="https://www.linkedin.com/in/adryan-gustavo-5841771a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="adryan.gustavomarques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center"><br>
+  
 ### Main Skills:
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -20,6 +25,7 @@
 </div>
 
 <div align="center"><br>
+  
 ### Tools:
   
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)&nbsp;
@@ -30,6 +36,7 @@
 </div>
 
 <div align="center"><br>
+  
 ### Studying in this moment:
   
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -37,8 +44,4 @@
 
 </div>
 
-
-
-<br>
-<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=120&section=footer"/>
