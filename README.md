@@ -9,7 +9,7 @@
   <br>
 </div>
 <div align="center"><br>
-  <a href="https://www.linkedin.com/in/adryan-gustavo-5841771a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adryan-claro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center"><br>
