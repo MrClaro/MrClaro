@@ -1,44 +1,45 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=2500&pause=1000&color=F70909&center=true&vCenter=true&width=1000&height=50&lines=Be+Welcome%F0%9F%91%8D;My+name+is+Adryan+Gustavo;I%60m+a+Back-End+Developer+from+Brazil%2C+SP.)](https://git.io/typing-svg)
+### Hi there 👋
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrclaro&show_icons=true&count_private=true&hide_border=true&title_color=D60529&icon_color=CF1815&text_color=c9d1d9&bg_color=000000" alt="José Luís github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrclaro&layout=compact&hide_border=true&title_color=D60529&text_color=c9d1d9&bg_color=000000" />
-  <br>
-</div>
-<div align="center"><br>
+I'm Adryan Claro,  I'm a Back-End Developer from Brazil, Be welcome.
+
   <a href="https://www.linkedin.com/in/adryan-claro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center"><br>
   
-### Main Skills:
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrclaro&show_icons=true&count_private=true&hide_border=true&title_color=D60529&icon_color=CF1815&text_color=c9d1d9&bg_color=000000" alt="José Luís github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrclaro&layout=compact&hide_border=true&title_color=D60529&text_color=c9d1d9&bg_color=000000" />
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ____
 
-</div>
+## ⚡ Technologies
 
-<div align="center"><br>
-  
-### Tools:
-  
- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
-![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![AndroidStudio]( https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
+These are some of the technologies and tools that I work with:
 
-</div>
+Backend: 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-<div align="center"><br>
-  
-### Studying in this moment:
-  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
-</div>
+Database:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/-Postgresql?style=flat-square&logo=Postgresql&logoColor=white&label=Postresql&labelColor=4479A1&color=4479A1)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=120&section=footer"/>
+
+Tools:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+IDEs:
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=80&section=footer"/>
