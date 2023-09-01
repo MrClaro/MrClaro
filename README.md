@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=70&section=header"/>
 
 ### Hi there 👋
 
@@ -42,4 +42,4 @@ IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D60529&height=70&section=footer"/>
