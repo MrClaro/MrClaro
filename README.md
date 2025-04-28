@@ -13,7 +13,7 @@
 <a href="mailto:adryan.contatoprofissional@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-432E54?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/seuperfil" target="_blank">
+<a href="https://www.linkedin.com/in/adryan-claro" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-432E54?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
