@@ -81,18 +81,6 @@ These are some of the technologies and tools that I work with:
 
 <div align="center">
 
-## 🔢 LeetCode Statistics
-
-<a href="https://leetcode.com/MrClaro" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/MrClaro?ext=heatmap" style="background-color: transparent; width: 400px; border-radius: 25px; border: 2px solid #9056f6;" alt="LeetCode Heatmap" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=MrClaro&theme=tokyonight&rank=-C,-B&column=-1" style="background-color: transparent; border-radius: 25px; border: 2px solid #9056f6;" />
