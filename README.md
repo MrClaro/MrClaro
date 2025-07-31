@@ -23,7 +23,7 @@
 <br>
 
 ```fish
-> neofetch
+> fastfetch
 ```
 
 <img  align="left" width="230" alt="elias-ains" src="https://github.com/user-attachments/assets/62d92240-4270-4b65-8dd0-67fa6cbe883e" />
@@ -63,6 +63,11 @@ Hobbies: Coding, Reading, Gaming, Martial Arts, Ricing
 <!-- Trophy -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=MrClaro&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false" height="150" alt="GitHub trophy graph" />
+</div>
+
+<br>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=30&pause=3000&color=cd36fc&center=true&vCenter=true&width=500&height=50&lines=Code+is+poetry+written+in+logic" alt="Typing animation: Code is poetry written in logic" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A42CD6&height=80&section=footer&direction=up"/>
