@@ -44,6 +44,8 @@ Databases: MySQL, PostgreSQL, MongoDB, Redis
 ORMs: Prisma, Drizzle, Hibernate
 Tools: GitHub, Docker, Vercel, VSCode, IntelliJ IDEA
 Hobbies: Coding, Reading, Gaming, Martial Arts, Ricing
+
+
 ```
 ---
 
